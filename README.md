@@ -19,19 +19,6 @@ or thru my LinkedIn: www.linkedin.com/in/jjcasas
 <img src=gifwebsite
 
 </div>
-<div align="center">
-<a href="https://trilliumsmith.com">
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/d773d9e0-25b6-4888-9594-369cfaa8c9e4">
-  <img width="561" alt="image" src="https://github.com/user-attachments/assets/e9bc6e54-96fa-4fd7-877f-e7ab95898387">
- </picture>
- </a>
-
-_Stack_: [TypeScript](https://www.typescriptlang.org/) | [NextJs](https://nextjs.org/) | [Tailwind.css](https://tailwindcss.com/) | [Netlify](https://www.netlify.com/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 
 # 💻 Tech Stack:
