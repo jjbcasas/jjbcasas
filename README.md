@@ -16,9 +16,10 @@ or thru my LinkedIn: www.linkedin.com/in/jjcasas
 <h3 align="center">
  <strong><a href="johnjosephcasas.netlify.app">johnjosephcasas.netlify.app</a></strong> | <a href="#">Repo</a>
 </h3>
-<img src=gifwebsite
-
+<div align="center">
+ <img src=https://github.com/jjbcasas/jjbcasas/blob/24e0ae9f37bd83e7a5444581b3803e0a09fd5167/better-toast.gif>
 </div>
+
 
 
 # 💻 Tech Stack:
