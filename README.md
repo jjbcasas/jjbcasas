@@ -9,21 +9,55 @@ Let's collaborate! You can reach me via email: casasjohnjoseph@gmail.com
 or thru my LinkedIn: www.linkedin.com/in/jjcasas
 
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjbcasas&show_icons=true&theme=radical)](https://github.com/jjbcasas/github-readme-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=jjbcasas&theme=dark&hide_border=false)<br/>
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjbcasas&show_icons=true&theme=radical)](https://github.com/jjbcasas/github-readme-stats)-->
+![](https://github-readme-streak-stats.herokuapp.com/?user=jjbcasas&theme=dark&hide_border=false)
 
 ## Portfolio
 <h3 align="center">
- <strong><a href="johnjosephcasas.netlify.app">johnjosephcasas.netlify.app</a></strong> | <a href="#">Repo</a>
+ <strong><a href="https://johnjosephcasas.netlify.app">johnjosephcasas.netlify.app</a></strong> | <a href="#">Repo</a>
 </h3>
 <div align="center">
-<a href="https://trilliumsmith.com">
+ <a href="https://johnjosephcasas.netlify.app">
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/d773d9e0-25b6-4888-9594-369cfaa8c9e4">
-  <img width="561" alt="image" src="https://github.com/user-attachments/assets/e9bc6e54-96fa-4fd7-877f-e7ab95898387">
+  <img width="561" alt="image" src="https://github.com/jjbcasas/jjbcasas/blob/de5384482771e8ceb7fc2ee209cd3b642c470b93/Screenshot%20Portfolio.png">
  </picture>
  </a>
 </div>
+
+## Work
+<h3 align="center">
+ <strong><a href="https://bettertoast.netlify.app">Better Toast</a></strong> | <a href="#">Repo</a>
+</h3>
+<div align="center">
+ <a href="https://bettertoast.netlify.app">
+ <img src="https://github.com/jjbcasas/jjbcasas/blob/de5384482771e8ceb7fc2ee209cd3b642c470b93/better-toast.gif"
+ </a>
+</div>
+<strong>HTML, CSS and Javascript</strong> - Built a dynamic NBA website that utilizes API calls to fetch real-time data on team schedules, standings and records. Implemented Javascript and DOM manipulation to display this information in a clean and interactive format.
+
+---
+
+<h3 align="center">
+ <strong><a href="https://mancaveshop.netlify.app">Man Cave</a></strong> | <a href="#">Repo</a>
+</h3>
+<div align="center">
+ <a href="https://mancaveshop.netlify.app">
+ <img src="https://github.com/jjbcasas/jjbcasas/blob/de5384482771e8ceb7fc2ee209cd3b642c470b93/man-cave.gif"
+ </a>
+</div>
+<strong>HTML and CSS</strong> - Designed and developed a visually appealing and intuitive website for a men's grooming salon using HTML, CSS, enhancing the client experience with a clear service description and showcasing the quality of work and salon experience.
+
+---
+
+<h3 align="center">
+ <strong><a href="https://nbavstracker.netlify.app">NBA vs Tracker</a></strong> | <a href="#">Repo</a>
+</h3>
+<div align="center">
+ <a href="https://nbavstracker.netlify.app">
+ <img src="https://github.com/jjbcasas/jjbcasas/blob/de5384482771e8ceb7fc2ee209cd3b642c470b93/nbavstracker.gif"
+ </a>
+</div>
+<strong>HTML, CSS and Javascript</strong> - Created a fully responsive website using HTML, CSS, Javascript, incorporating DOM manipulation techniques. The website caters to health-conscious consumers through a user-friendly interface.
 
 
 
