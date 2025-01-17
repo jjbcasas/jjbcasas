@@ -17,7 +17,12 @@ or thru my LinkedIn: www.linkedin.com/in/jjcasas
  <strong><a href="johnjosephcasas.netlify.app">johnjosephcasas.netlify.app</a></strong> | <a href="#">Repo</a>
 </h3>
 <div align="center">
- <img src=https://github.com/jjbcasas/jjbcasas/blob/24e0ae9f37bd83e7a5444581b3803e0a09fd5167/better-toast.gif>
+<a href="https://trilliumsmith.com">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/d773d9e0-25b6-4888-9594-369cfaa8c9e4">
+  <img width="561" alt="image" src="https://github.com/user-attachments/assets/e9bc6e54-96fa-4fd7-877f-e7ab95898387">
+ </picture>
+ </a>
 </div>
 
 
