@@ -33,7 +33,7 @@ or thru my LinkedIn: www.linkedin.com/in/jjcasas
  <img src="https://github.com/jjbcasas/jjbcasas/blob/de5384482771e8ceb7fc2ee209cd3b642c470b93/better-toast.gif"
  </a>
 </div>
-<strong>HTML, CSS and Javascript</strong> - Built a dynamic NBA website that utilizes API calls to fetch real-time data on team schedules, standings and records. Implemented Javascript and DOM manipulation to display this information in a clean and interactive format.
+<strong>HTML, CSS and Javascript</strong> - Created a fully responsive website using HTML, CSS, Javascript, incorporating DOM manipulation techniques. The website caters to health-conscious consumers through a user-friendly interface.
 
 ---
 
@@ -57,7 +57,7 @@ or thru my LinkedIn: www.linkedin.com/in/jjcasas
  <img src="https://github.com/jjbcasas/jjbcasas/blob/de5384482771e8ceb7fc2ee209cd3b642c470b93/nbavstracker.gif"
  </a>
 </div>
-<strong>HTML, CSS and Javascript</strong> - Created a fully responsive website using HTML, CSS, Javascript, incorporating DOM manipulation techniques. The website caters to health-conscious consumers through a user-friendly interface.
+<strong>HTML, CSS and Javascript</strong> - Built a dynamic NBA website that utilizes API calls to fetch real-time data on team schedules, standings and records. Implemented Javascript and DOM manipulation to display this information in a clean and interactive format.
 
 
 
