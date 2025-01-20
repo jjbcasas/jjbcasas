@@ -9,12 +9,12 @@ Let's collaborate! You can reach me via email: casasjohnjoseph@gmail.com
 or thru my LinkedIn: www.linkedin.com/in/jjcasas
 
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjbcasas&show_icons=true&theme=radical)](https://github.com/jjbcasas/github-readme-stats)-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjbcasas&show_icons=true&theme=radical)](https://github.com/jjbcasas/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jjbcasas&theme=dark&hide_border=false)
 
 ## Portfolio
 <h3 align="center">
- <strong><a href="https://johnjosephcasas.netlify.app">johnjosephcasas.netlify.app</a></strong> | <a href="#">Repo</a>
+ <strong><a href="https://johnjosephcasas.netlify.app">johnjosephcasas.netlify.app</a></strong>
 </h3>
 <div align="center">
  <a href="https://johnjosephcasas.netlify.app">
@@ -26,11 +26,11 @@ or thru my LinkedIn: www.linkedin.com/in/jjcasas
 
 ## Work
 <h3 align="center">
- <strong><a href="https://bettertoast.netlify.app">Better Toast</a></strong> | <a href="#">Repo</a>
+ <strong><a href="https://bettertoast.netlify.app">Better Toast</a></strong> | <a href="https://github.com/jjbcasas/better-toast">Repo</a>
 </h3>
 <div align="center">
  <a href="https://bettertoast.netlify.app">
- <img src="https://github.com/jjbcasas/jjbcasas/blob/de5384482771e8ceb7fc2ee209cd3b642c470b93/better-toast.gif"
+ <img src="https://github.com/jjbcasas/better-toast/blob/c7cb318fc5dafe2a63c25288f0e657d1e3a5655d/better-toast.gif"
  </a>
 </div>
 <strong>HTML, CSS and Javascript</strong> - Created a fully responsive website using HTML, CSS, Javascript, incorporating DOM manipulation techniques. The website caters to health-conscious consumers through a user-friendly interface.
@@ -38,7 +38,7 @@ or thru my LinkedIn: www.linkedin.com/in/jjcasas
 ---
 
 <h3 align="center">
- <strong><a href="https://mancaveshop.netlify.app">Man Cave</a></strong> | <a href="#">Repo</a>
+ <strong><a href="https://mancaveshop.netlify.app">Man Cave</a></strong> | <a href="https://github.com/jjbcasas/man-cave">Repo</a>
 </h3>
 <div align="center">
  <a href="https://mancaveshop.netlify.app">
