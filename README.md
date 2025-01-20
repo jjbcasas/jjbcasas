@@ -50,7 +50,7 @@ or thru my LinkedIn: www.linkedin.com/in/jjcasas
 ---
 
 <h3 align="center">
- <strong><a href="https://nbavstracker.netlify.app">NBA vs Tracker</a></strong> | <a href="#">Repo</a>
+ <strong><a href="https://nbavstracker.netlify.app">NBA vs Tracker</a></strong> | <a href="https://github.com/jjbcasas/nba-vs-tracker">Repo</a>
 </h3>
 <div align="center">
  <a href="https://nbavstracker.netlify.app">
