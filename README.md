@@ -9,7 +9,8 @@ Let's collaborate! You can reach me via email: casasjohnjoseph@gmail.com
 or thru my LinkedIn: www.linkedin.com/in/jjcasas
 
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjbcasas&show_icons=true&theme=radical)](https://github.com/jjbcasas/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjbcasas&show_icons=true&theme=radical)]
+<!--(https://github.com/jjbcasas/github-readme-stats)-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jjbcasas&theme=dark&hide_border=false)
 
 ## Portfolio
