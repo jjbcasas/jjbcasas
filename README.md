@@ -1,7 +1,6 @@
 ## Hi, Im JJ!
 
-A highly motivated software engineer Highly motivated software engineer specializing in building web applications using
-MongoDB, Express.js, React.js, and Node.js. Proven ability to effectively collaborate with diverse teams, promoting a positive and productive work environment. Seeking to contribute my skills to a Tech company with global reach.
+A highly motivated software engineer specializing in building web applications using MongoDB, Express.js, React.js, and Node.js. Proven ability to effectively collaborate with diverse teams, promoting a positive and productive work environment. Seeking to contribute my skills to a Tech company with global reach.
 
 Outside of coding, I have a strong interest in sports. I enjoy the challenge of combining my love for sports with my passion for coding.
 
