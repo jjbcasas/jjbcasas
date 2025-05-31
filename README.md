@@ -27,6 +27,30 @@ or thru my LinkedIn: www.linkedin.com/in/jjcasas
 
 ## Work
 <h3 align="center">
+ <strong><a href="https://ventura-connect.vercel.app">Ventura Connect</a></strong> | <a href="https://github.com/jjbcasas/ventura-connect">Repo</a>
+</h3>
+<div align="center">
+ <a href="https://ventura-connect.vercel.app">
+ <img src="https://github.com/jjbcasas/ventura-connect/blob/main/ventura-connect.gif"
+ </a>
+</div>
+<strong>MongoDB, Express, EJS, Node.js</strong> - A social media app enabling users to connect and share content. It features user authentication (email/password and Google OAuth) for secure account creation and log in. Allows users to browse posts, upload photos for profiles and new posts, and interact with others by following profiles, liking and commenting on posts..
+
+---
+
+<h3 align="center">
+ <strong><a href="https://shelf-inv.vercel.app">Shelf</a></strong> | <a href="https://github.com/jjbcasas/shelf">Repo</a>
+</h3>
+<div align="center">
+ <a href="https://shelf-inv.vercel.app">
+ <img src="https://github.com/jjbcasas/shelf/blob/main/shelf-inv.gif"
+ </a>
+</div>
+<strong>MongoDB, Express, EJS, Node.js</strong> - A comprehensive inventory management app for personal and business use, featuring secure login (email/password, Google OAuth), customizable categories and items with photos, and real-time stock updates.
+
+---
+
+<h3 align="center">
  <strong><a href="https://bettertoast.netlify.app">Better Toast</a></strong> | <a href="https://github.com/jjbcasas/better-toast">Repo</a>
 </h3>
 <div align="center">
