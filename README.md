@@ -1,6 +1,6 @@
 ## Hi, Im JJ!
 
-A highly motivated software engineer specializing in building web applications using MongoDB, Express.js, React.js, and Node.js., with experience building and integrating APls. Proven ability to effectively collaborate with diverse teams, promoting a positive and productive work environment. Seeking to contribute my skills to a Tech company with global reach.
+Full-stack software engineer with deep interest in AI, specializing in building web applications using MongoDB, Express.js, React.js, and Node.js, with experience building and integrating APls. Proven ability to effectively collaborate with diverse teams, promoting a positive and productive work environment. Seeking to contribute my skills to a Tech company with global reach.
 
 Outside of coding, I have strong interest in sports. I enjoy the challenge of combining my love for sports with my passion for coding.
 
@@ -27,10 +27,10 @@ or thru my LinkedIn: www.linkedin.com/in/jjcasas
 
 ## Work
 <h3 align="center">
- <strong><a href="https://ventura-connect.vercel.app">Ventura Connect</a></strong> | <a href="https://github.com/jjbcasas/ventura-connect">Repo</a>
+ <strong><a href="https://ventura-connect.onrender.com">Ventura Connect</a></strong> | <a href="https://github.com/jjbcasas/react-ventura-connect">Repo</a>
 </h3>
 <div align="center">
- <a href="https://ventura-connect.vercel.app">
+ <a href="https://ventura-connect.onrender.com">
  <img src="https://github.com/jjbcasas/ventura-connect/blob/main/ventura-connect.gif"
  </a>
 </div>
@@ -46,7 +46,7 @@ or thru my LinkedIn: www.linkedin.com/in/jjcasas
  <img src="https://github.com/jjbcasas/shelf/blob/main/shelf-inv.gif"
  </a>
 </div>
-<strong>MongoDB, Express, EJS, Node.js</strong> - A comprehensive inventory management app for personal and business use, featuring secure login (email/password, Google OAuth), customizable categories and items with photos, and real-time stock updates.
+<strong>MongoDB, Express, EJS, Node.js</strong> - A comprehensive inventory management application that streamlined business operations, saving an estimated 50% in manual tracking time, and enabling critical business data to be accessed from anywhere, featuring secure login (email/password, Google OAuth), customizable categories and items with photos, and real-time stock updates.
 
 ---
 
@@ -82,7 +82,7 @@ or thru my LinkedIn: www.linkedin.com/in/jjcasas
  <img src="https://github.com/jjbcasas/jjbcasas/blob/de5384482771e8ceb7fc2ee209cd3b642c470b93/nbavstracker.gif"
  </a>
 </div>
-<strong>HTML, CSS and Javascript</strong> - Built a dynamic NBA website that utilizes API calls to fetch real-time data on team schedules, standings and records. Implemented Javascript and DOM manipulation to display this information in a clean and interactive format.
+<strong>HTML, CSS and Javascript</strong> - Built a dynamic NBA website that utilizes API calls to fetch real-time data on team schedules, standings and records. Utilized Javascript and DOM manipulation to display this information in a clean and interactive format.
 
 
 
