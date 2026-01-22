@@ -1,6 +1,5 @@
 ## Hi, Im JJ!
 
-
 A Full-Stack Software Engineer with deep interest in AI, specializing in building web applications using MongoDB, Express.js, React.js, and Node.js, with experience building and integrating APls. Proven ability to effectively collaborate with diverse teams, promoting a positive and productive work environment. Seeking to contribute my skills to a Tech company with global reach.
 
 Outside of coding, I have strong interest in sports. I enjoy the challenge of combining my love for sports with my passion for coding.
