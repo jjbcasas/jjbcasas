@@ -34,7 +34,7 @@ or thru my LinkedIn: www.linkedin.com/in/jjcasas
  <img src="https://github.com/jjbcasas/ventura-connect/blob/main/ventura-connect.gif"
  </a>
 </div>
-<strong>MongoDB, Express, EJS, Node.js</strong> - A social media app enabling users to connect and share content. It features user authentication (email/password and Google OAuth) for secure account creation and log in. Allows users to browse posts, upload photos for profiles and new posts, and interact with others by following profiles, liking and commenting on posts.
+<strong>MongoDB, Express, EJS, Node.js</strong> - A social media app enabling users to connect and share content with real-time chat and creator tipping via Stripe. I integrated WebSockets (Socket.io) for the chat feature, implemented monetization and payments using Stripe, and incorporated Google Cloud Vision API for NSFW post moderation. The platform also features secure user authentication (email/password and Google OAuth) for account creation and log in. Allows users to browse posts, upload photos for profiles and new posts, and interact with others by following profiles, liking and commenting on posts.
 
 ---
 
