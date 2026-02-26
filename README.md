@@ -45,7 +45,9 @@ or thru my LinkedIn: www.linkedin.com/in/jjcasas
 </h3>
 <div align="center">
  <a href="https://shelf-inv.vercel.app">
- <img src="https://github.com/jjbcasas/shelf/blob/main/shelf-inv.gif">
+  <picture>
+   <img src="https://github.com/jjbcasas/shelf/blob/main/shelf-inv.gif">
+  </picture>
  </a>
 </div>
 <strong>MongoDB, Express, EJS, Node.js</strong> - A comprehensive inventory management application that streamlined business operations, saving an estimated 50% in manual tracking time, and enabling critical business data to be accessed from anywhere, featuring secure login (email/password, Google OAuth), customizable categories and items with photos, and real-time stock updates.
@@ -57,7 +59,9 @@ or thru my LinkedIn: www.linkedin.com/in/jjcasas
 </h3>
 <div align="center">
  <a href="https://bettertoast.netlify.app">
- <img src="https://github.com/jjbcasas/better-toast/blob/c7cb318fc5dafe2a63c25288f0e657d1e3a5655d/better-toast.gif">
+  <picture>
+   <img src="https://github.com/jjbcasas/better-toast/blob/c7cb318fc5dafe2a63c25288f0e657d1e3a5655d/better-toast.gif">
+  </picture>
  </a>
 </div>
 <strong>HTML, CSS and Javascript</strong> - Created a fully responsive website using HTML, CSS, Javascript, incorporating DOM manipulation techniques. The website caters to health-conscious consumers through a user-friendly interface.
@@ -69,7 +73,9 @@ or thru my LinkedIn: www.linkedin.com/in/jjcasas
 </h3>
 <div align="center">
  <a href="https://mancaveshop.netlify.app">
- <img src="https://github.com/jjbcasas/jjbcasas/blob/de5384482771e8ceb7fc2ee209cd3b642c470b93/man-cave.gif">
+  <picture>
+   <img src="https://github.com/jjbcasas/jjbcasas/blob/de5384482771e8ceb7fc2ee209cd3b642c470b93/man-cave.gif">
+  </picture>
  </a>
 </div>
 <strong>HTML and CSS</strong> - Designed and developed a visually appealing and intuitive website for a men's grooming salon using HTML, CSS, enhancing the client experience with a clear service description and showcasing the quality of work and salon experience.
@@ -81,7 +87,9 @@ or thru my LinkedIn: www.linkedin.com/in/jjcasas
 </h3>
 <div align="center">
  <a href="https://nbavstracker.netlify.app">
- <img src="https://github.com/jjbcasas/jjbcasas/blob/de5384482771e8ceb7fc2ee209cd3b642c470b93/nbavstracker.gif">
+  <picture>
+   <img src="https://github.com/jjbcasas/jjbcasas/blob/de5384482771e8ceb7fc2ee209cd3b642c470b93/nbavstracker.gif">
+  </picture>
  </a>
 </div>
 <strong>HTML, CSS and Javascript</strong> - Built a dynamic NBA website that utilizes API calls to fetch real-time data on team schedules, standings and records. Utilized Javascript and DOM manipulation to display this information in a clean and interactive format.
