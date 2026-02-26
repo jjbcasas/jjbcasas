@@ -27,7 +27,7 @@ or thru my LinkedIn: www.linkedin.com/in/jjcasas
 
 ## Work
 <h3 align="center">
- <strong><a href="https://ventura-connect.onrender.com">Ventura Connect</a></strong> | <a href="https://github.com/jjbcasas/react-ventura-connect">Repo</a>
+ <strong><a href="https://ventura-connect.onrender.com">Ventura Connect</a></strong> | <a href="https://github.com/jjbcasas/ventura-connect">Repo</a>
 </h3>
 <div align="center">
  <a href="https://ventura-connect.onrender.com">
